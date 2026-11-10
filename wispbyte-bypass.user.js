@@ -30,7 +30,6 @@
 (function() {
     'use strict';
 
-    // ===== Anti AdBlock-Detection Guard =====
     try {
         (function () {
             const isBlockedUrl = (u) => {
