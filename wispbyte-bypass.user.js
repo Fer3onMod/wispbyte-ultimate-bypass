@@ -1,13 +1,27 @@
 // ==UserScript==
-// @name         Wispbyte Ultimate Bypass
+// @name         Wispbyte Ultimate Bypass (Ad Bypass, Ad Blocker, RAM Boost)
+// @name:ar      Wispbyte Ultimate Bypass (تجاوز الإعلانات، حظر الإعلانات، زيادة الرام)
+// @name:es      Wispbyte Ultimate Bypass (Saltar anuncios, Bloqueador de anuncios, Boost de RAM)
+// @name:pt-BR   Wispbyte Ultimate Bypass (Pular anúncios, Bloqueador de anúncios, Boost de RAM)
+// @name:fr      Wispbyte Ultimate Bypass (Contournement de pub, Bloqueur de pub, Boost RAM)
+// @name:de      Wispbyte Ultimate Bypass (Werbung überspringen, Werbeblocker, RAM-Boost)
+// @name:ru      Wispbyte Ultimate Bypass (обход рекламы, блокировщик рекламы, буст RAM)
+// @name:tr      Wispbyte Ultimate Bypass (Reklam Atlatma, Reklam Engelleyici, RAM Artırma)
+// @name:id      Wispbyte Ultimate Bypass (Lewati Iklan, Pemblokir Iklan, Penambah RAM)
 // @namespace    http://tampermonkey.net/
-// @version      26.7
+// @version      26.9
 // @license      MIT
-// @description  Wispbyte Ad Bypass [START / +100 MiB RAM boost] by Fer3on_Mod.
+// @description        ⚡ Wispbyte Ad Bypass [START / +100 MiB RAM boost] + built-in ad/pop-up blocker, by Fer3on_Mod.
+// @description:ar     ⚡ تجاوز إعلانات Wispbyte [تشغيل تلقائي / زيادة +100 ميجا رام] مع حظر إعلانات وبوب-أب مدمج، بواسطة Fer3on_Mod.
+// @description:es     ⚡ Bypass de anuncios de Wispbyte [INICIO / +100 MiB de RAM] con bloqueador de anuncios y pop-ups integrado, por Fer3on_Mod.
+// @description:pt-BR  ⚡ Bypass de anúncios do Wispbyte [INÍCIO / +100 MiB de RAM] com bloqueador de anúncios e pop-ups integrado, por Fer3on_Mod.
+// @description:fr     ⚡ Contournement des pubs Wispbyte [DÉMARRAGE / +100 Mio de RAM] avec bloqueur de pubs et pop-ups intégré, par Fer3on_Mod.
+// @description:de     ⚡ Wispbyte-Werbe-Bypass [START / +100 MiB RAM-Boost] mit integriertem Werbe-/Pop-up-Blocker, von Fer3on_Mod.
+// @description:ru     ⚡ Обход рекламы Wispbyte [СТАРТ / +100 МиБ RAM] со встроенным блокировщиком рекламы и всплывающих окон, от Fer3on_Mod.
+// @description:tr     ⚡ Wispbyte reklam atlatma [BAŞLAT / +100 MiB RAM artışı], dahili reklam/pop-up engelleyici ile, Fer3on_Mod tarafından.
+// @description:id     ⚡ Bypass iklan Wispbyte [MULAI / +100 MiB RAM] dengan pemblokir iklan/pop-up bawaan, oleh Fer3on_Mod.
 // @author       Fer3on_Mod
 // @match        https://wispbyte.com/client/*
-// @match        https://wispbyte.com/client
-// @antifeature
 // @grant        none
 // @downloadURL https://update.greasyfork.org/scripts/594672/Wispbyte%20Ultimate%20Bypass.user.js
 // @updateURL https://update.greasyfork.org/scripts/594672/Wispbyte%20Ultimate%20Bypass.meta.js
