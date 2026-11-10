@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      26.7
 // @license      MIT
-// @description  ⚡ Wispbyte Ad Bypass [START / +100 MiB RAM boost] by Fer3on_Mod.
+// @description  Wispbyte Ad Bypass [START / +100 MiB RAM boost] by Fer3on_Mod.
 // @author       Fer3on_Mod
 // @match        https://wispbyte.com/client/*
 // @match        https://wispbyte.com/client
