@@ -503,7 +503,7 @@
     const box = document.createElement('div');
     box.id = 'fer-box';
     box.innerHTML = `
-        <h3>Fer3on Bypass ⚡ <span>V26.7 Pro</span></h3>
+        <h3>Fer3on Bypass ⚡ <span>V26.9 Pro</span></h3>
         <p id="fer-status">Initializing parameters...</p>
         <div id="fer-progress-bar"><div id="fer-progress-fill"></div></div>
         <button id="fer-btn">Retry Manually</button>
